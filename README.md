@@ -1,6 +1,6 @@
 1. make sure you dont already have eslint installed in your project (uninstall it first if you do)
 
-2. install package `npm i JohnDeved/undefined-lint`
+2. install package `npm i alpin11/alpin11-eslint`
 
 3. create `.eslintrc` file in your project root
 ```json
